@@ -10,7 +10,7 @@ Python was conceived in the late 1980s as a successor to the ABC language. Pytho
 
 The Python 2 language, i.e. Python 2.7.x, was officially discontinued on 1 January 2020 (first planned for 2015) after which security patches and other improvements will not be released for it. With Python 2's end-of-life, only Python 3.5.x and later are supported.
 
-Python interpreters are available for many operating systems. A global community of programmers develops and maintains CPython, an open source reference implementation. A non-profit organization, the Python Software Foundation, manages and directs resources for Python and CPython development. ( Source : https://en.wikipedia.org/wiki/Python_(programming_language) )
+Python interpreters are available for many operating systems. A global community of programmers develops and maintains CPython, an open source reference implementation. A non-profit organization, the Python Software Foundation, manages and directs resources for Python and CPython development.( Source : https://en.wikipedia.org/wiki/Python_(programming_language) )
 
 # Daftar Program
     1. Konversi Suhu
@@ -21,6 +21,7 @@ Python interpreters are available for many operating systems. A global community
 
 # Persiapan
     1. Tetap tenang dan berfikir jernih dan sehat
+    
     2. Python
        Download
        https://www.python.org/downloads/
