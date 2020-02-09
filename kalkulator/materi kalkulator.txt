@@ -1,0 +1,16 @@
+Program kalkulator python
+
+Daftar :
+1. penjumlahan
+2. pengurangan
+3. perkalian
+4. pembagian
+===============
+
+Angka yang digunakan adalah [0-9]
+Tidak boleh input selain angka ( harus input angka )
+user input = 1
+pilihan = +
+user input = 2
+hasil = 3
+
