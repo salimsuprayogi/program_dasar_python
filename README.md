@@ -18,6 +18,8 @@ Python interpreters are available for many operating systems. A global community
     3. Pertukaran Nilai Variabel
     4. Vollume dan Luas Balok
     5. Trace Tabel menggunakan x, y dan jumlah
+    6. Kalkulator
+    7. Menampilkan bilangan ganjil
 
 # Persiapan
     1. Tetap tenang dan berfikir jernih dan sehat
