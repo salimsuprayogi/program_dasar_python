@@ -13,14 +13,14 @@ def batas():
 
 def key_word():
     batas()
-    print("How to check if a string is a valid keyword in Python?")
+    print("How to check if a string is a valid keywords in Python?")
     # fungsi iskeyword()
     # s = "for"
-    s = input("Nama Keyword : ")
-    if keyword.iskeyword(s):
-        print("%s termasuk keyword python" % s)
+    nama_var = input("Nama Keywords : ")
+    if keyword.iskeyword(nama_var):
+        print("%s termasuk keywords python" % nama_var)
     else:
-        print("%s tidak termasuk keyword python" % s)
+        print("%s tidak termasuk keywords python" % nama_var)
     batas()
 
 
@@ -29,22 +29,22 @@ def check_keyword():
 
     print("How to check if a string is a valid keyword in Python ?\n")
 
-    input_nama = input("Nama Keyword : ")
+    input_nama = input("Nama Keywords : ")
 
     if input_nama in keyword.kwlist:
-        print("\"%s\" termasuk keyword python\n" % input_nama)
+        print("\"%s\" termasuk keywords python\n" % input_nama)
     else:
-        print("\"%s\" tidak termasuk keyword python\n" % input_nama)
+        print("\"%s\" tidak termasuk keywords python\n" % input_nama)
 
     batas()
 
-    print("Daftar Keyword Python : ")
+    print("Daftar Keywords Python : ")
     key = keyword.kwlist
     tampilkan_fungsi = []
     for i in range(0, len(key)):
         nama_fungsi = key[i]
         add_fungsi = {
-            "Keyword Python": nama_fungsi
+            "Keywords Python": nama_fungsi
         }
         tampilkan_fungsi.append(add_fungsi)
     print(json.dumps(obj=tampilkan_fungsi, sort_keys=4, indent=True))
