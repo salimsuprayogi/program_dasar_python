@@ -13,6 +13,7 @@ The Python 2 language, i.e. Python 2.7.x, was officially discontinued on 1 Janua
 Python interpreters are available for many operating systems. A global community of programmers develops and maintains CPython, an open source reference implementation. A non-profit organization, the Python Software Foundation, manages and directs resources for Python and CPython development.( Source : https://en.wikipedia.org/wiki/Python_(programming_language) )
 
 # Daftar Program
+
     1. Konversi Suhu
     2. Luas dan Keliling Lingkaran
     3. Pertukaran Nilai Variabel
@@ -20,20 +21,40 @@ Python interpreters are available for many operating systems. A global community
     5. Trace Tabel menggunakan x, y dan jumlah
     6. Kalkulator
     7. Menampilkan bilangan ganjil
+    8. Menampilkan bilangan genap
+    9. Menggunakan import ( latihan_import)
+    10. Menampilkan fungsi keyword() dalam format json
+    11. Madlibs Game
+    12. Guessing Game
 
 # Persiapan
+
     1. Tetap tenang dan berfikir jernih dan sehat
     
     2. Python
-       Download
-       https://www.python.org/downloads/
+        Download
+        https://www.python.org/downloads/
        
-       Documentation
-       https://www.python.org/doc/
+        Documentation
+        https://www.python.org/doc/
        
     3. Visual Studio Code
-       Download
-       https://code.visualstudio.com/download
+        Download
+        https://code.visualstudio.com/download
        
-       Documentation
-       https://code.visualstudio.com/docs
+        Documentation
+        https://code.visualstudio.com/docs
+
+    4. Reverensi Python
+        freeCodeCamp.org ( youtube )
+
+# Author
+
+    Salim Suprayogi
+
+    Github
+    https://github.com/salimsuprayogi
+
+    Linkedin
+    https://www.linkedin.com/in/salimsuprayogi/
+
