@@ -26,6 +26,10 @@ Python interpreters are available for many operating systems. A global community
     10. Menampilkan fungsi keyword() dalam format json
     11. Madlibs Game
     12. Guessing Game
+    13. Translation
+    14. Exponent
+    15. Fungsi python
+    16. Loop For Python
 
 # Persiapan
 
@@ -47,6 +51,7 @@ Python interpreters are available for many operating systems. A global community
 
     4. Reverensi Python
         freeCodeCamp.org ( youtube )
+        www.geeksforgeeks.org
 
 # Author
 
@@ -57,4 +62,8 @@ Python interpreters are available for many operating systems. A global community
 
     Linkedin
     https://www.linkedin.com/in/salimsuprayogi/
+
+# Saran
+
+    Selalu terbuka untuk kritik, saran dan masukan demi masa depan yang lebih baik ^_^
 
